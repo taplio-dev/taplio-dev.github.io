@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taplio-dev.github.io/sitemap.xml
